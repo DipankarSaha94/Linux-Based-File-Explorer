@@ -1,4 +1,4 @@
-# Assignment1
+# Linux Based File Explorer
 
 ## Functionalities of the Normal Mode are as follows:
 
